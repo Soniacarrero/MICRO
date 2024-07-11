@@ -1,0 +1,1 @@
+El proyecto se centra en la simulación y puesta en práctica de un sistema domótico utilizando una maqueta equipada con los sensores y actuadores necesarios para gestionar diferentes aspectos. Esta representación permite evaluar en un entorno controlado la funcionalidad y fiabilidad del sistema antes de su implementación final en un entorno real.
